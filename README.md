@@ -16,7 +16,7 @@ The framework presents a comprehensive analysis of predictive maintenance method
 - Asset lifespan extension: 20-40%
 - Return on investment: 250-545%
 
-## # 🤖 Technical Components
+## 🤖 Technical Components
 
 ### Core Technologies Covered
 - **Sensor Technologies**: Multi-modal sensor fusion architectures, wireless sensor networks
