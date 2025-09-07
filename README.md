@@ -1,4 +1,8 @@
 # Real-Time Predictive Maintenance and Fault Diagnostics: Technical Framework
+## Presentation
+
+- Link: https://devloper-gazi.github.io/Real-Time-Predictive-Maintenance-Fault-Diagnostics/
+
 
 ## Abstract
 
