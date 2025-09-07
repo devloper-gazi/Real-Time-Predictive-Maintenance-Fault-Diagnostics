@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This repository contains an interactive web-based technical documentation framework for real-time predictive maintenance and fault diagnostics systems. The document synthesizes contemporary research and industrial applications of IoT-enabled condition monitoring, machine learning algorithms, and reliability engineering principles for industrial asset management.
+🤖 This repository contains an interactive web-based technical documentation framework for real-time predictive maintenance and fault diagnostics systems. The document synthesizes contemporary research and industrial applications of IoT-enabled condition monitoring, machine learning algorithms, and reliability engineering principles for industrial asset management.
 
 ## Presentation
 
@@ -16,7 +16,7 @@ The framework presents a comprehensive analysis of predictive maintenance method
 - Asset lifespan extension: 20-40%
 - Return on investment: 250-545%
 
-## Technical Components
+## # 🤖 Technical Components
 
 ### Core Technologies Covered
 - **Sensor Technologies**: Multi-modal sensor fusion architectures, wireless sensor networks
