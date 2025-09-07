@@ -1,4 +1,3 @@
-#  ⚙️ <-/-> 🤖
 #  Real-Time Predictive Maintenance and Fault Diagnostics: Technical Framework 
 
 ## Abstract
