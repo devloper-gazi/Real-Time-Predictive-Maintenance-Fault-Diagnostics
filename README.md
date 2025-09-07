@@ -4,9 +4,10 @@
 
 This repository contains an interactive web-based technical documentation framework for real-time predictive maintenance and fault diagnostics systems. The document synthesizes contemporary research and industrial applications of IoT-enabled condition monitoring, machine learning algorithms, and reliability engineering principles for industrial asset management.
 
-## Presentation
+## ⚙️ Live Presentation
+🔗 [Real-Time Predictive Maintenance Framework](https://devloper-gazi.github.io/Real-Time-Predictive-Maintenance-Fault-Diagnostics/)
 
-- Link: https://devloper-gazi.github.io/Real-Time-Predictive-Maintenance-Fault-Diagnostics/
+---
 
 ## Overview
 
